@@ -2,9 +2,7 @@
 
 This is an icon library containing icons, in ascii art style, of different programming technologies.
 
-This library is intended to be used by iconify.
 These icons have no color by default. They are black SVG images
-Prefix: `garrux-ascii`
 
 | <center>Nombre </center> | <center>Icono </center>                                     | <center>Nombre </center> | <center>Icono </center>                               |
 | ------------------------ | ----------------------------------------------------------- | ------------------------ | ----------------------------------------------------- |
