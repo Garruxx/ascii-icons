@@ -6,17 +6,6 @@ This library is intended to be used by iconify.
 These icons have no color by default. They are black SVG images
 Prefix: `garrux-ascii`
 
-<style>
-    body{
-        background:#000
-    }
-    img{
-        width: 222px;height: 222px;background-color: currentColor;-webkit-mask-image: var(--svg);mask-image: var(--svg);-webkit-mask-repeat: no-repeat;mask-repeat: no-repeat;
-        -webkit-mask-size: 100% 100%;
-        mask-size: 100% 100%;
-    }
-</style>
-
 | <center>Nombre </center> | <center>Icono </center>                                     | <center>Nombre </center> | <center>Icono </center>                               |
 | ------------------------ | ----------------------------------------------------------- | ------------------------ | ----------------------------------------------------- |
 | 1. Angular               | <img src="png/angular.png" width="60" height="60">          | 15. Astro                | <img src="png/Astro.png" width="60" height="60">      |
